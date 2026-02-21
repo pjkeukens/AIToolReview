@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /assets/og/
+Sitemap: https://www.techreviewstudio.app/sitemap.xml
